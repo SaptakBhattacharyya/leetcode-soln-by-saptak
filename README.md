@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
