@@ -13,6 +13,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
 ## String
@@ -32,6 +33,7 @@
 | [0027-remove-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 ## Enumeration
