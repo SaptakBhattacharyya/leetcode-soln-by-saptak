@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
+| [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0003-longest-substring-without-repeating-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
