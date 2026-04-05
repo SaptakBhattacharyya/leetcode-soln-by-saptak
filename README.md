@@ -35,6 +35,7 @@
 | [0035-search-insert-position](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
@@ -74,6 +75,7 @@
 | [0011-container-with-most-water](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
