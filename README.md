@@ -25,6 +25,7 @@
 | [0014-longest-common-prefix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
