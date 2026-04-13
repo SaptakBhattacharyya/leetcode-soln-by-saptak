@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
+| [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 ## Enumeration
 |  |
 | ------- |
