@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
+        vector<char> st;
         for (char c : s) {
             if (c == '(' || c == '{' || c == '[') {
-                st.push(c);
+                st.push_back(c);
             } 
             else {
                 if (st.empty()) return false;
                 
-                char last = st.top();
+                char last = st.back();
                 if ((c == ')' && last == '(') || 
                     (c == '}' && last == '{') || 
                     (c == ']' && last == '[')) {
-                    st.pop(); 
+                    st.pop_back(); 
                 } else {
                     return false;
                 }
