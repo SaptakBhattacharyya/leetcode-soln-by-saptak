@@ -52,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 ## Enumeration
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
