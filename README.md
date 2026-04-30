@@ -21,6 +21,7 @@
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | ------- |
 | [0136-single-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
 ## Tree
 |  |
 | ------- |
