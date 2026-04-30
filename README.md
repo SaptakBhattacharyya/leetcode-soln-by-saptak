@@ -59,6 +59,7 @@
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Enumeration
 |  |
 | ------- |
