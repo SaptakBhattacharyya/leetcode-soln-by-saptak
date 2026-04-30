@@ -19,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
