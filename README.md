@@ -39,6 +39,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3019-number-of-changing-keys) |
 ## Array
@@ -99,6 +100,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
+| [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0344-reverse-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
