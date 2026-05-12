@@ -75,6 +75,7 @@
 | [0204-count-primes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
