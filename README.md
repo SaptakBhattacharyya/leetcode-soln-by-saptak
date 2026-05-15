@@ -37,6 +37,7 @@
 | [0014-longest-common-prefix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0205-isomorphic-strings) |
@@ -131,6 +132,7 @@
 | [0027-remove-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0283-move-zeroes) |
