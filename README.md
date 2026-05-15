@@ -57,6 +57,7 @@
 | [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
@@ -115,6 +116,7 @@
 | [0053-maximum-subarray](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 ## Recursion
@@ -151,6 +153,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
