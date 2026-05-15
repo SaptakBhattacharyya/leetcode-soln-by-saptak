@@ -12,6 +12,7 @@
 | [0205-isomorphic-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
@@ -45,6 +46,7 @@
 | [0171-excel-sheet-column-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0345-reverse-vowels-of-a-string) |
@@ -180,6 +182,7 @@
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
