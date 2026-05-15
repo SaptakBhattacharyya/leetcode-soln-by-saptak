@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
@@ -52,6 +53,7 @@
 | [0316-remove-duplicate-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0796-rotate-string) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
