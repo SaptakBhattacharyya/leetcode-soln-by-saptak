@@ -103,6 +103,7 @@
 | [0455-assign-cookies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
 ## String Matching
 |  |
 | ------- |
