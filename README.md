@@ -97,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
@@ -199,6 +200,7 @@
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
