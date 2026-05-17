@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -104,6 +105,7 @@
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
