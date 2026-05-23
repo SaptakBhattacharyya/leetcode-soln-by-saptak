@@ -65,6 +65,7 @@
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1678-goal-parser-interpretation) |
@@ -153,6 +154,7 @@
 | [0316-remove-duplicate-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
@@ -172,6 +174,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -260,6 +263,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
+| [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
