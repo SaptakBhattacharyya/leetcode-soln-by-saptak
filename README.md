@@ -28,6 +28,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Enumeration
 |  |
