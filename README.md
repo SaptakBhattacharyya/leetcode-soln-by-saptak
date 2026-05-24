@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0202-happy-number) |
@@ -90,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
@@ -289,6 +291,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
 ## Counting Sort
 |  |
