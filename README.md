@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
