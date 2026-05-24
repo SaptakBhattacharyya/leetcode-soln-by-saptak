@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -72,6 +73,7 @@
 | [0709-to-lower-case](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1108-defanging-an-ip-address) |
@@ -121,6 +123,7 @@
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
+| [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
