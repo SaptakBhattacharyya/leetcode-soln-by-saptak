@@ -45,6 +45,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2032-two-out-of-three) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -164,6 +165,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2032-two-out-of-three) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Enumeration
@@ -278,6 +280,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 | [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String Matching
 |  |
 | ------- |
