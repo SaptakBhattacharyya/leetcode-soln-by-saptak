@@ -28,6 +28,7 @@
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
+| [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -130,6 +131,7 @@
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
+| [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -271,6 +273,7 @@
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 ## Monotonic Stack
