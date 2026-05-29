@@ -38,6 +38,7 @@
 | [1436-destination-city](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -155,6 +156,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -271,6 +273,7 @@
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
