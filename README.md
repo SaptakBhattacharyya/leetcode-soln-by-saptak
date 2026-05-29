@@ -31,6 +31,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2315-count-asterisks) |
+| [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 | [3019-number-of-changing-keys](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3019-number-of-changing-keys) |
 ## Array
 |  |
@@ -244,6 +246,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
 | ------- |
