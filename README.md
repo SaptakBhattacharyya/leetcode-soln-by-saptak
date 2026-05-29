@@ -33,6 +33,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
@@ -145,6 +146,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -211,6 +213,7 @@
 | [0455-assign-cookies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -220,6 +223,7 @@
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +262,7 @@
 | [0414-third-maximum-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
