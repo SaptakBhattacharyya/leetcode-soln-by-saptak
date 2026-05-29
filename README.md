@@ -144,6 +144,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
