@@ -51,6 +51,7 @@
 | [2325-decode-the-message](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Enumeration
 |  |
@@ -329,6 +331,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 ## Monotonic Stack
 |  |
 | ------- |
