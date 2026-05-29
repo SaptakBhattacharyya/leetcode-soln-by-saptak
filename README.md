@@ -26,6 +26,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [1207-unique-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1207-unique-number-of-occurrences) |
@@ -131,6 +132,7 @@
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
