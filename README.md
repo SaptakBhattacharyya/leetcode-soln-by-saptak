@@ -36,6 +36,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
@@ -94,6 +95,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1496-path-crossing) |
 | [1678-goal-parser-interpretation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1678-goal-parser-interpretation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
