@@ -184,6 +184,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Enumeration
 |  |
@@ -364,6 +365,7 @@
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## String Matching
 |  |
 | ------- |
@@ -396,4 +398,5 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
