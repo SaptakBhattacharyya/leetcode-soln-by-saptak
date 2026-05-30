@@ -173,6 +173,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2032-two-out-of-three) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2206-divide-array-into-equal-pairs) |
@@ -253,6 +254,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Bit Manipulation
