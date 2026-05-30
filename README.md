@@ -145,6 +145,7 @@
 | [0217-contains-duplicate](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
 ## Game Theory
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -413,6 +416,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -424,4 +428,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
