@@ -324,14 +324,17 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -397,6 +400,15 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
