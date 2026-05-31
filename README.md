@@ -160,6 +160,7 @@
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
@@ -313,6 +314,7 @@
 | [0389-find-the-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1200-minimum-absolute-difference) |
@@ -421,6 +423,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
