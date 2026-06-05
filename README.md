@@ -106,6 +106,7 @@
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1436-destination-city) |
@@ -235,6 +236,7 @@
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
