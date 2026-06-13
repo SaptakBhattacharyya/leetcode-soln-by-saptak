@@ -125,6 +125,7 @@
 | [2315-count-asterisks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
+| [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3019-number-of-changing-keys) |
 ## Array
 |  |
@@ -203,6 +204,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
 ## Enumeration
 |  |
