@@ -59,6 +59,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -129,6 +130,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3019-number-of-changing-keys) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
 | ------- |
