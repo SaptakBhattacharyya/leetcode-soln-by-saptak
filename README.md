@@ -59,6 +59,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3945-digit-frequency-score) |
@@ -209,6 +210,7 @@
 | [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
