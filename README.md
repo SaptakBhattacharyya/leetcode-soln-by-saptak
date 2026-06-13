@@ -60,6 +60,7 @@
 | [2404-most-frequent-even-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
+| [3945-digit-frequency-score](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
