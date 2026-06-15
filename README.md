@@ -134,6 +134,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2315-count-asterisks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2351-first-letter-to-appear-twice) |
@@ -418,6 +419,7 @@
 | [0415-add-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## String Matching
