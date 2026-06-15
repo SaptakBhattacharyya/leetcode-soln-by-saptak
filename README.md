@@ -9,6 +9,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0202-happy-number) |
@@ -91,6 +92,7 @@
 | [0014-longest-common-prefix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0168-excel-sheet-column-title) |
@@ -152,6 +154,7 @@
 | [0027-remove-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
@@ -334,6 +337,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0179-largest-number) |
