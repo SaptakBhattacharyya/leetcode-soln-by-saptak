@@ -107,6 +107,7 @@
 | [0392-is-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
