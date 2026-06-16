@@ -93,6 +93,7 @@
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0165-compare-version-numbers) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
