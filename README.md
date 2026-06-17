@@ -147,6 +147,7 @@
 | [3019-number-of-changing-keys](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3019-number-of-changing-keys) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -442,6 +443,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3612-process-string-with-special-operations-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3614-process-string-with-special-operations-ii) |
 ## String Matching
 |  |
 | ------- |
