@@ -145,6 +145,7 @@
 | [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3019-number-of-changing-keys) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -437,6 +438,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3612-process-string-with-special-operations-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
