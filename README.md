@@ -194,6 +194,7 @@
 | [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
@@ -313,6 +314,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
