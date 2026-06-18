@@ -197,6 +197,7 @@
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
@@ -449,6 +450,7 @@
 | [0258-add-digits](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -473,6 +475,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0566-reshape-the-matrix) |
 ## Counting Sort
 |  |
 | ------- |
