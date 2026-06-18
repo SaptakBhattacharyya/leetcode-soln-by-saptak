@@ -80,6 +80,7 @@
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
@@ -196,6 +197,7 @@
 | [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
