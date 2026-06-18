@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -197,6 +198,7 @@
 | [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
@@ -346,6 +348,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -369,6 +372,7 @@
 | [0455-assign-cookies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [1051-height-checker](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1200-minimum-absolute-difference) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1338-reduce-array-size-to-the-half) |
@@ -418,6 +422,7 @@
 | [0169-majority-element](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1221-split-a-string-in-balanced-strings) |
