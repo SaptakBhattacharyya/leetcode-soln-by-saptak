@@ -204,6 +204,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
