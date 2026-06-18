@@ -32,6 +32,7 @@
 | [0575-distribute-candies](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -206,6 +207,7 @@
 | [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
@@ -381,6 +383,7 @@
 | [0561-array-partition](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1200-minimum-absolute-difference) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1338-reduce-array-size-to-the-half) |
@@ -400,6 +403,7 @@
 | [0268-missing-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2206-divide-array-into-equal-pairs) |
