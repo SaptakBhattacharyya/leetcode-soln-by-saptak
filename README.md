@@ -86,6 +86,7 @@
 | [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
@@ -272,6 +273,7 @@
 | [0392-is-subsequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -535,4 +538,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
