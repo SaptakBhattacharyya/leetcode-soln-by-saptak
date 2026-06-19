@@ -241,6 +241,7 @@
 | [1816-truncate-sentence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1816-truncate-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2032-two-out-of-three) |
@@ -482,6 +483,7 @@
 | [0566-reshape-the-matrix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
