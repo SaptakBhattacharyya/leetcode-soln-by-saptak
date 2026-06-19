@@ -250,6 +250,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
 |  |
 | ------- |
@@ -489,6 +490,7 @@
 | [0036-valid-sudoku](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0566-reshape-the-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
 | ------- |
@@ -525,4 +527,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0303-range-sum-query-immutable) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
