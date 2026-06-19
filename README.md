@@ -91,6 +91,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1512-number-of-good-pairs) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3945-digit-frequency-score](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -253,6 +254,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2942-find-words-containing-character) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3925-concatenate-array-with-reverse) |
