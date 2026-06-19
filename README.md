@@ -86,6 +86,7 @@
 | [0598-range-addition-ii](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1486-xor-operation-in-an-array) |
@@ -215,6 +216,7 @@
 | [0739-daily-temperatures](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1051-height-checker) |
