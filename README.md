@@ -147,6 +147,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -241,6 +242,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -480,6 +482,7 @@
 | [0566-reshape-the-matrix](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2161-partition-array-according-to-given-pivot) |
