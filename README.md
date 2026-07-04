@@ -502,10 +502,12 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0463-island-perimeter) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -552,6 +555,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SaptakBhattacharyya/leetcode-soln-by-saptak/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Brainteaser
 |  |
