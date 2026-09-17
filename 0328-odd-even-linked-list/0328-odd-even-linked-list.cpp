@@ -10,13 +10,14 @@
  */
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head) {
+    ListNode* oddEvenList(ListNode* head) { 
+        if(head==NULL||head->next==NULL || head->next->next==NULL ){
+            return head;
+        }
         ListNode* odd=head;
         ListNode* even=head->next;
          ListNode* evenHead = even;
-        if(head==NULL||head->next==NULL){
-            return head;
-        }
+       
          while(even != NULL && even->next != NULL){
              odd->next=even->next;
              odd=odd->next;
